@@ -1,0 +1,4 @@
+127.0.0.1 - - [10/Nov/2020:16:19:37 +0200] "GET / HTTP/1.1" 200 77 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0"
+127.0.0.1 - - [10/Nov/2020:16:19:44 +0200] "GET /favicon.ico HTTP/1.1" 404 134 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0"
+127.0.0.1 - - [10/Nov/2020:16:26:39 +0200] "GET / HTTP/1.1" 200 77 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0"
+127.0.0.1 - - [10/Nov/2020:16:34:28 +0200] "GET / HTTP/1.1" 200 84 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0"
